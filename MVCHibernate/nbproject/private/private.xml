@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/MyJavaProjects/MVCHibernate/src/java/entity/Fine.java</file>
+            <file>file:/C:/MyJavaProjects/MVCHibernate/web/WEB-INF/dispatcher-servlet.xml</file>
+            <file>file:/C:/MyJavaProjects/MVCHibernate/src/java/entity/Customer.java</file>
+            <file>file:/C:/MyJavaProjects/MVCHibernate/src/java/controller/CustomerController.java</file>
+            <file>file:/C:/MyJavaProjects/MVCHibernate/src/java/model/CustomerModel.java</file>
+            <file>file:/C:/MyJavaProjects/MVCHibernate/web/redirect.jsp</file>
+            <file>file:/C:/MyJavaProjects/MVCHibernate/build/web/WEB-INF/dispatcher-servlet.xml</file>
+            <file>file:/C:/MyJavaProjects/MVCHibernate/src/java/model/HibernateUtil.java</file>
+            <file>file:/C:/MyJavaProjects/MVCHibernate/web/WEB-INF/applicationContext.xml</file>
+            <file>file:/C:/MyJavaProjects/MVCHibernate/web/WEB-INF/jsp/data.jsp</file>
+            <file>file:/C:/MyJavaProjects/MVCHibernate/src/java/controller/Controller.java</file>
+            <file>file:/C:/MyJavaProjects/MVCHibernate/nbproject/project.xml</file>
+            <file>file:/C:/MyJavaProjects/MVCHibernate/web/WEB-INF/jsp/index.jsp</file>
+            <file>file:/C:/MyJavaProjects/MVCHibernate/src/java/hibernate.reveng.xml</file>
+            <file>file:/C:/MyJavaProjects/MVCHibernate/web/WEB-INF/web.xml</file>
+            <file>file:/C:/MyJavaProjects/MVCHibernate/src/java/hibernate.cfg.xml</file>
+            <file>file:/C:/MyJavaProjects/MVCHibernate/build/web/WEB-INF/applicationContext.xml</file>
+        </group>
+    </open-files>
+</project-private>
